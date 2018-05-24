@@ -99,7 +99,7 @@ Results
 
 ![output_14_0](https://user-images.githubusercontent.com/33802087/40487706-9eeb7d72-5f82-11e8-8ede-80e422262205.png)
 
-* Features Correlation Mapping
+* Features Correlation Mapping 
 
 ![output_20_1](https://user-images.githubusercontent.com/33802087/40487707-9f5baf2a-5f82-11e8-8c7b-c8f50285a462.png)
 
