@@ -1,4 +1,4 @@
-# sp500
+# Predictive Model for S&P500 Market Status
 This repository contains a Machine Learning project to make predictions about the future S&amp;P500 market status using the historical data of market closing index.
 
 ### Objectives
