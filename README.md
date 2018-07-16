@@ -1,21 +1,21 @@
-# Star War Survey
+# Predictive Model for S&P500 Market Status
 
-This repository contains a project that explains how gender specific trend emerges over the time for the sci-fi movies. 
+This repository contains a Machine Learning project to make predictions about the future S&P500 market status using the historical data of market closing index.
 
 ### Objectives
 
-Below is the list of questions that we are looking to answer as a final outcome of this project:
-
-1.	Does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?
-
-2.	What are the gender specific movie likes/dislikes in the US?
+Using historical data on the price of the S&P500 Index, make predictions about future stock market status
 
 ### Goal Significance
 
-The first and foremost question is what the significance of the objectives mentioned above are. In other words, why does the list of questions above as a part of the objectives matter? Let’s enlist the reasons that clarify the importance of our objectives for this project.
+Why does the list of objectives above mention matter? What benefit we could derive by developing a Stock Market Predictive Model. Below are the goals we can enlist: 
 
-* This information will provide very useful information to movie makers to identify gender specific market potentials.
-* The information would also reveal very vital information about gender specific likes and dislikes for different entertainment topics.
+* This information will help us to forecast how the overall stock market as a whole will perform over the time
+
+* The stock market performance will, in turn, give us an insight about the overall economic status
+
+* The S&P500 Index movement can provide us useful information about the business status of the top 500 corporate houses in the nation
+
 
 ### Technical Writeup ###
 
@@ -26,9 +26,13 @@ Please refer to the approprite portion of the portfolio section to read the deta
 Once get fork permission:
 
 * Download the .py file and 'databank' folder together.  
+
 * Retain the relative folder tree structure. 
+
 * The native python file (.py) shuold remain in the root directory.
-* The python file extracts data from the .csv database that exists in the databank folder. 
+
+* The python file extracts data from the two .csv databases that exist in the databank folder. 
+
 * Execute the .py file in root. 
 
 Please feel free to contact me for any of your question or concern through github. Happy coding. Enjoy! 
