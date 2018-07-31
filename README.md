@@ -19,7 +19,7 @@ Why does the list of objectives above mention matter? What benefit we could deri
 
 ### Technical Writeup ###
 
-Please refer to the approprite portion of the portfolio section to read the detailed project write up. 
+Please refer to the approprite portion of the portfolio section to read the [**Detailed Project Writeup**](https://portfolio.mshah.info/sp-500/). 
 
 ### Code Explanation ###
 
